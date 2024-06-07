@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "串口助手", "串口助手.csproj", "{4CA330AE-1045-4D1B-B7B1-EEF2C3059889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CA330AE-1045-4D1B-B7B1-EEF2C3059889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA330AE-1045-4D1B-B7B1-EEF2C3059889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA330AE-1045-4D1B-B7B1-EEF2C3059889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA330AE-1045-4D1B-B7B1-EEF2C3059889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF102448-C350-4046-B3F4-1AE04CC87788}
+	EndGlobalSection
+EndGlobal
